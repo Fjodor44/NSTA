@@ -6,6 +6,7 @@
       {
         "id": "78696a524622f9ce",
         "type": "tabs",
+        "dimension": 36.930294906166225,
         "children": [
           {
             "id": "cdbc83751b6868bf",
@@ -82,12 +83,41 @@
                 "file": "ToDo List party.md"
               }
             }
+          },
+          {
+            "id": "fb923f191407158a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "IC_Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"IC_Notes/IC_Notes.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":19},\"to\":{\"line\":14,\"ch\":19}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session 3 notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "f40a764c2885bedd",
         "type": "tabs",
+        "dimension": 63.06970509383378,
         "children": [
           {
             "id": "84b4f2c2cb47d172",
@@ -416,9 +446,10 @@
   "lastOpenFiles": [
     "session 3 notes.md",
     "Session 3 IC notes (MAJOR SPOILERS).md",
+    "IC_Notes/IC_Notes.md",
+    "ZFiles/Myrthals_Self_Written_Letter.png",
     "ToDo List party.md",
     "IC_Notes/Session 2 IC Notes.md",
-    "IC_Notes/IC_Notes.md",
     "Lore/Institute and Factions/UMDA.md",
     "Lore/Institute and Factions/UMDA Main Sector.md",
     "Verin, Nexus Arcanum.md",
