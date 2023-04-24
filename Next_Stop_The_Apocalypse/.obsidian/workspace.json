@@ -20,11 +20,87 @@
               ]
             },
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "IC_Notes/Unworked session notes/session 4 notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c7f7839d0a1a85e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "session 4 IC Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"session 4 IC Notes.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":706},\"to\":{\"line\":17,\"ch\":706}},\"scroll\":10.470694435967339}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "6b874504fb6ddc78",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "IC_Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"IC_Notes/IC_Notes.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session 4 IC Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45672d84ee2213b2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IC_Notes/Unworked session notes/session 3 notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -71,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lisanders",
+                "query": "tag:#pre-prologue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,11 +173,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e3c75992fbae58bf",
@@ -126,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IC_Notes/Unworked session notes/session 3 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IC_Notes/Unworked session notes/session 3 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,23 +254,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "3a88655aab2f80c6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
             }
           },
           {
@@ -245,7 +308,7 @@
             }
           },
           {
-            "id": "c6dd4c8e5183907b",
+            "id": "4415048f63c0ea6b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -257,33 +320,16 @@
               ]
             },
             "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "de549d8ece546abf",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "initiative-tracker-view",
+              "type": "FANTASY_CALENDAR",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,15 +341,17 @@
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "5631d99a594ee621",
+  "active": "45672d84ee2213b2",
   "lastOpenFiles": [
+    "session 4 IC Notes.md",
+    "IC_Notes/IC_Notes.md",
+    "IC_Notes/Unworked session notes/session 4 notes.md",
     "Random shit/Readme.md",
     "private/Chronicols of Darkness.md",
     "Lore/Pantheon/Kelemvor, God of the Dead.md",
@@ -316,10 +364,8 @@
     "Lore/Bestiary/Bestiary.md",
     "Boneyard.md",
     "Queen Aira Solar III, The Radiant Queen.md",
-    "IC_Notes/IC_Notes.md",
     "Lisander Galazar.md",
     "UMDA Hidden Devision.md",
-    "session 4 IC Notes.md",
     "ToDo List party.md",
     "IC_Notes/Session 3 IC notes (MAJOR SPOILERS).md",
     "IC_Notes/Session 1 IC notes.md",
@@ -330,7 +376,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "IC_Notes/Unworked session notes/Session 2 notes.md",
-    "IC_Notes/Unworked session notes/session 4 notes.md",
     "ZFiles/Myrthals_Self_Written_Letter.png"
   ]
 }
