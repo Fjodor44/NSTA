@@ -47,7 +47,7 @@ What does this mean, THE hidden devision? What is that? What have I done who am 
 # Travel to the Dungeon
 
 Travel so far is mostly uneventful I really need to look into how Haiden summons his echo's but I will need better supplies and cannot fully persue this on the plains.
-On day 5 we encountered an obsidian like Standing stone in which was a crystal.  The stone was made out of [[Ignius Stone]]  and contained a [[Potentiality Shard]] Which conatains a spell that I will need to extract in the future. 
+On day 5 we encountered an obsidian like Standing stone in which was a crystal.  The stone was made out of [[Ignius Stone]]  and contained a [[Potentiality Shard]] Which contains a spell that I will need to extract in the future.  The ignius stone has radiates the same type of magic that [[Hayden]] does.
 
 Also goblins
 

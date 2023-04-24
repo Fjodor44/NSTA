@@ -9,6 +9,8 @@ kanban-plugin: basic
 - [ ] Magic Threesome
 - [ ] Make a magic item out of the crystal that is in the bag of holding
 - [ ] Get astral codex
+- [ ] Ask people about UMDA student card
+- [ ] Find information about memory altering magic.
 
 
 ## In Progress
