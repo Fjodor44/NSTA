@@ -1,4 +1,0 @@
----
-kanban-plugin: basic
----
-

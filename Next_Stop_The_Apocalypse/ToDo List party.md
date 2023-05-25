@@ -11,15 +11,23 @@ kanban-plugin: basic
 - [ ] Get astral codex
 - [ ] Ask people about UMDA student card
 - [ ] Find information about memory altering magic.
+- [ ] Not broke
+- [ ] 3d print cart
+- [ ] Investigate the Burn
 
 
 ## In Progress
 
-- [ ] [[Quest nr1]]
+- [ ] [[Quest to Kashmir]]
 
 
 ## Completed
 
+
+
+## UHM WTF
+
+- [ ] [[Quest nr1]]
 
 
 
