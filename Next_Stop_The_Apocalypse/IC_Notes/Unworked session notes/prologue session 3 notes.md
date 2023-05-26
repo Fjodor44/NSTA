@@ -4,7 +4,7 @@ Creation date : <% tp.file.creation_date() %>
 tags : pre-prologue, OC_notes
 ---
 
-# session 3 notes
+# prologue session 3 notes
 
 # House of the dead
 [[House of the dead]] long hall and double doors and one room to the right that leads to a back door

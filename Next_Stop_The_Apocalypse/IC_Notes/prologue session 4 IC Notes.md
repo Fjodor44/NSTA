@@ -4,7 +4,7 @@ Creation date : <% tp.file.creation_date() %>
 tags : post-prologue, IC_notes, Spoilers 
 ---
 
-# session 4 IC Notes
+# Prologue Session 4 IC Notes
 
 ## The goblin fight
 Well the encounter with the goblins went to shit quickly. Enoki died and as that happened a voice screamed out and reality seemed to shatter. The goblin warlord got obliterated as the world around him shattered. It is hard to describe but it was almost like glass cracking in 3 dimensions. This sphere seemed to expand continually and become larger and larger.  The fire that the goblins had turned into crystal with Lucy being left outside of the circle. During this time I got a flashback. I did not see much but the same [[Crystal Blade]] that was used on me I used to kill an old man. I did not recognize the old man. While Disturbing it is possible that the spell effecting my memory is not infallible and could either through triggers or other magic be reversed. I need to do more research into this topic. 

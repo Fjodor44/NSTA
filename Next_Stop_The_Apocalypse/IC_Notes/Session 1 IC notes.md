@@ -1,25 +1,21 @@
-
 ---
 Last Update : <%+ tp.file.last_modified_date() %>
 Creation date : <% tp.file.creation_date() %>
-tags : pre-prologue, IC_notes
+tags : post-prologue, IC_Notes
 ---
 
-# Notes session one
-the day was.....?
+# Session 1 IC notes
+The [[Spirit Weaver]] is a fascinating creature with a clear flair for the dramatic. After her interesting entrance she used some magic on us a spell I did not recognize and declared all our souls fucked due to time travel. Apparently [[Time travel]] leaves scars upon the souls of the people who travel through time.
+The [[Spirit Weaver]] Did give us some insight into what has happened. The event which I have named [[The Collapse]] happened due to the planar travel in a dying timeline. When [[Enoki]] died the original spirit weaver made a tear in-between the planes which made things a million times worse and caused the complete collapse and probably the reason that this timeline has felt the impact. I personally do not think this is the right explanation as we have seen with [[Hayden]] that he has a near infinite supply of echo's which come from dying timelines. It cannot be that with all the people that have the ability to planeswalk no one from the dying timeline was planes-walking at the time the timeline was dying. Unless these people have the ability to sense that they are in a dying timeline.
 
-Today was quite eventful, I met with the group who I will be working with for the next month or so they are a good bunch but have their oddities. We are now a group of 5.
+we got more insight into [[Mystra, Goddes of magic]], and got a recommendation to look into [[Darios Tyfon]] which later turned into a quest to meet up with Darios. 
 
-There is a fairy named [[Dew]] who has definitely studied at UMDA and has a mechanical lizard named Scarner which is currently on version 4.
+I learned something about myself to. Asking the spirit weaver to look into my modify memory she told me that I was the one that wiped my own memory which is very concerning. Unlocking it can be done through 3 ways. I could die, I can get close to death or using magic everything can be unlocked at once. Apparently the last option is a terrible idea and I will take the spiritweavers word for it. What have I done that I had to wipe my own memory and leave someone behind? Who is Lisander? These are questions that I will need answers to.
 
-There is a Tiefling called [[Lucy]] who has a weird magical bracer that seems to give her power. She seems to have powers similar to clerics but her bracer does some weird things.
+During our meeting [[Dew]] Got pulled away in a similar fashion that happened during the original [[The Collapse|Collapes]] but this time a pane of glass appeared behind him which then broke and sucked dew into the time vortex.
 
-there was a human named [[Enoki]] who has a weird mushroom in their hair and is carrying a bluish staff. 
+we got tasked by the spiritweaver to look up [[Darios Tyfon]] in [[Kashmir]] on the way we will be passing by the obolisk the overgrown aquaduct and 2 towns. the full journey will take about a month to complete.
 
-Finally there is [[Hayden]] who seemed to be able to manifest a an echo of himself this echo was not effected by a psychic mug and seemed to pass straight through. I have never seen or heard anything about this and need to do some more investigation on this echo.
+My trip to the library was unsuccessful as my UMDA card does not work as i had hoped to the hidden division's resources are not as large as I had expected which is good as they do scare me and are one of the main worries right now.
 
-our introductions got interuped when I got stabbed by an assasin who used a blade made out of arcane quartz. a wizardsslayer attack was used killing me instantly but I was brought back due to my ring. Which broke one of the crystals. This seems to bring me back from the dead but at the cost of one of the crystals. It might have some more unforeseen consequences. The ring felt warm when I was dead.
 
-The assasin was also quite interesting. It seemed to have non-corporeal movement. It also had acces to a really powerful spell named [[Detonation Surge]] A high level spell like 5+ that kills the user. The spell should be highly regulated by [[UMDA]] with limited access. Could this be a group who has broken in to UMDA or is it UMDA itself? More information is needed before I can draw a conclusion. But UMDA might be up to some shady stuff.
-
-Finally we met with [[Tsuri Gi]] the questgiver who can apparently read minds and is a Githzera. We got a [[Quest nr1]] There should be maps of the dungeons but the dungeon seems to change after it got reset by [[Babyl, God of Adventurers and Dungeons]]. we have to expect a bone devil undeads and lesser devils and demons.

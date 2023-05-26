@@ -1,90 +1,78 @@
-Session 1 
-30/11/2023
-we start in city of light aka radiant citadel.
-next to dassles ocean. 
-large elevator on the rocks
-castle with 9 towers in the city made of alebaster.
-5 meter thick wall in the city with 9 tower. topped with dragon ballista. 5 disctricts
-centre castletop with nobles +alebaster keep
-north coin district most of the commerce+QPD hall of commerce.
-west hearth district common folk dsitrict
-south faith district.
-east travelers district portus portofict
-skyport on the winged tower.
+---
+Last Update : <%+ tp.file.last_modified_date() %>
+Creation date : <% tp.file.creation_date() %>
+tags : post-prologue, Notes
+---
 
-qpd buliding
-4 layers
-g bazaar
-1st hall for artisans
-2nd guild hall (questing guild sits here) many tactical rooms and the office of the guild master
-3rd floor the inn.
-it houses the chamber of the guildmaster devron fi leader of qpd hartia.
+# Session 1 Notes
+her limbs seem to extend when she sit.
+she casts some spell with souls and declares us all fucked. Hayden even more. 
+time magic leaves scars upon our soul. 
+she is a hag. called the spirit weaver.
+lucy is wearing kelemvors armor pieces.
+the spirit weaver seems to not have any realization of our timetravel.
+timeline was already dying and the tear made things a million times worse.
+dunamancy?!? what magic it that.
+strings of fate bind you to other people and other times.
+dew got spushed away by pane of glass and time vortex
+a mortal who knows stuff about planes
+guy in kashmere and sage.
+either someone got the tower of bable 
+mystra the goddes of magic someone might have tried to kill her.
+so knowledge
+guy tried to kill mystra and killed magic for a couple of seconds mystra got revived and magic whas limited since then.
+spirit weaver is 300+
+dying timelines are really fragile and portaling is brutal on a plane. 
+umda HIDDEN division? Planeswalking.
+the spiritweaver comes from the feywild.
+Darios tyfon sage focussed on the planes
+from the city to the obilisks we would also go past the overgrown aquaducts and hit two different town markers. the longest journy would be 200 to 300 miles from the last town to kashmere.  aka tower of babylon land.
+the spirit weaver has a coven. hayden has the blood of a very old hag. 
+the spirit weaver hates babyl 
+hags have wierd magic. 
+the magic was weak magic and was done by me. 
+couple of ways to get rid of modify memory.
+dying. getting close to death. unlocking it all at once. 
 
-i am dead? help
+when you invoke a gods name they can for the next month or so scry on you. 
+spirit weaver left powerfull magic items somewhere. 
 
-dew (fairy) - martijn
-Purple feariy with technical goggles and something slithering under the table. easily destracted.  boom lizard?!? scarner 4 
-1 no head 2 chew on butter 3 we dont talk about 3
+actual distances
+140 miles to the obilisk
+200 miles to the next village from the obolisk
+175 to the overgrown aquaduct (check with qpd)
+140 to the next village.
+250 to kashmere.
 
+bag of freezing is a thing
+dews money is in the bag of holding
+inside there is squid ink liqour
+pitons
+a pearl worth 100gp
+rations 10 days.
+there was 
+humanoid adjecent wooden golem. created by the spirit weaver.
+we do stuff for the dream weaver. 
+mushrooms get bouncy when you get drunk. 
 
-lucy - Milona (tiefling)
-slightly ... tiefling clothed in green underclothes and backplate and a skeletal bracer. good at healing and damage from a distance. 
+Quote of the day I forgot which gender I am.
+the spiritweaver has aquintences of thasa's
+thasha has a scary boyfriend.
+the spirit weaver became a hag through a wish spell and a deck of many things.
+250 gp for the checking
+executioners card for me which could have already happened.
+babayaga with a chickenlegs house.
 
-haiden - Eric (hexblood)
-scuffed tiefling more dried up skin. heavily armored and a big flail that reflects a lot of light. small compared to the avarage person 30/40 years old. good in front.
+umda card says general research. 
 
-enoki (human) - emery
-mostly human looking with whitish hair, with wierd quicky slightly pointed ears. They have mushrooms growing in their hair and are carrying a staff and blueish crystal. 
-
-ring only has 6 shards.
-blue crystal blade. stabbed in the back cold feeling then a warmth from the ring. 
-exaustion -1 on all checks
-
-no skin is shown. 
-
-
-a mirror haiden comes through the ground. 
-like an echo
-
-the wound stiched itself together.
-the movement of the assasin is almost dashing looks non material
-
-the assasin used detonation surge, it was a spell crafted at UMDA spellscroll is highly regulated. target commits suicide. quite high level 5+
-
-arcane quart 
-galazar
-it was completely silent and completely solid. and was probbably under an invisibility spell. 
-the ring has given some knowledge
-when you get down to 0 hitpoints you can expend a charge and heal 10 hitpoints. 
-
-mister gi is waiting for us. quest giver
-my questions are who sent the assasin? what was the assasin. and most importantly why me.
-
-on the table is a tactical map with flags on muptiple locations.
-mister gi: yellowish green skin. pointed ears longer and tighter than elven ears. Slich back hair and a pulled back nose. he is a githzera a psyonic humanoid. with a short white gotee. can read minds
-tsuri gi. likes to be called gi.
-
-quest labled regular dungeon cleanout.
-goal cleanout the dungeon called inverted spire.
-10 days out. we will clear out the first two floors and destroy the floor boss on floor 3. 
-dungeons get reset by bable and lives on the tower of babilon around the city of kashmere.
-the tower is a living dungeon. but due to the prescence of the god the dungeons tend to reset and repopulate.
-has reset a small number of times. part of the quest will be to map the first 3 floors. 
-it is a tier 2 dungeon. silver adventurers
-tiers go from bronze silver gold platinum. 
-on the floors will be 
-1st floor undead roaming the halls
-2nd floor small variety of lesser devils and demons. 
-3rd floor will have a floor boss, which will be a bone devil. 
-floors might have changed to check map area. 
-new corridors are still being found even on dungeons that have reset many a times.
-chests have more powerfull and one of loot on the first iteration. any loot it yours to keep with a 10% cut on the money.
-firsts group went to level 7 gold tier.
-second group to level 5 between silver and gold.
-
-first through planes north of city then through the forest.
-9 total layers. 
-
-
-the maps will be deposited on the letterbox in from of the dorm. 
-
+library card does not work 
+the inner lining of the cart is water repellent
+12 miles traveled day 1
+a lot of traveling and some nomadic folk
+there was a general tention in the city.
+	the city stays up and the city even at night it did not die down. 
+what if I do not like what I find.
+who caused it
+who is she.
+we survived
+level up

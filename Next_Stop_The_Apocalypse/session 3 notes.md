@@ -4,7 +4,7 @@ Creation date : <% tp.file.creation_date() %>
 tags : post-prologue, OC_notes
 ---
 
-# session 7 notes
+# session 3 notes
 THIS IS SESSION 3 after prologue
 
 the zeitgeist left behind a belt and something?

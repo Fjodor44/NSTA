@@ -4,7 +4,7 @@ Creation date : <% tp.file.creation_date() %>
 tags : post-prologue, Notes
 ---
 
-# session 6 notes
+# session 2 notes
 haiden goes back to qpd and talks to elf without ear.
 the party is called the dying timeline.
 myrthal is the party leader again.

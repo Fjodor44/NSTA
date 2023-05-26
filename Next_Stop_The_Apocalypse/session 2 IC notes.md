@@ -4,7 +4,7 @@ Creation date : <% tp.file.creation_date() %>
 tags : post-prologue, IC_notes
 ---
 
-# session 6 IC notes
+# session 2 IC notes
 
 After Haiden ran back to the [[Qho Prosperity Division|QPD]] to get permission to enter the overgrown aquaduct he had to sign us up as an adventuring party again. The party is now named [[The Dying timeline]] with me as a leader. Apperently a person who wiped his own memory is stable enough to be party leader.
 We got more information about our journey for the [[Quest to Kashmir]] We will be stopping over in 2 towns [[Listaar]] and [[Moongrove]] both having their own issues. On [[Hayden]] return to the party we set off to towards the obelisk.

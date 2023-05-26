@@ -4,7 +4,7 @@ Creation date : <% tp.file.creation_date() %>
 tags : pre-prologue, IC_notes, Spoilers
 ---
 
-# Session 3 IC notes (MAJOR SPOILERS)
+# Prologue Session 3 IC notes (MAJOR SPOILERS)
 
 I do not like gods, what was to be a quick stopover at the [[House of the dead]] has become much more. We met [[Gravekeeper Horic]] to get some holywater, when lucy went to pray I decided why not its been ages. While I do not think I have had any affiliation with the gods before I certainly do not have it now. During this prayer there was a wierd mental pressure unlike anything I have felt before and apparently [[Lucy]] when to the [[Boneyard]] where they saw one of the archangles of [[Kelemvor, God of the Dead|Kelemvor]] and a shitload of imps came out. I personally did not see this but it must have been a scary sight. 
 

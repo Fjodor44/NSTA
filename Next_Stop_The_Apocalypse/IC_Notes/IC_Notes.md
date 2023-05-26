@@ -5,19 +5,21 @@ DO NOT READ THIS UNLESS YOU WANT POSSIBLE SPOILERS TO MIRTHAL's Backstory
 
 # IC Notes
 
+[[prologue session 1 IC notes]]
+[[prologue session 2 IC Notes]]
+[[prologue session 3 IC notes (MAJOR SPOILERS)]]
+[[prologue session 4 IC Notes]]
+## Post-prologue
 [[Session 1 IC notes]]
-[[Session 2 IC Notes]]
-[[Session 3 IC notes (MAJOR SPOILERS)]]
-[[session 4 IC Notes]]
-[[Session 5 IC notes]]
-[[session 6 IC notes]]
-[[session 7 IC notes]]
+[[session 2 IC notes]]
+[[session 3 IC notes]]
 # OC Notes
 
+[[prologue session 1 notes]]
+[[prologue session 2 notes]]
+[[prologue session 3 notes]]
+[[prologue session 4 notes]]
+## Post-prologue
 [[Session 1 Notes]]
-[[Session 2 notes]]
+[[session 2 notes]]
 [[session 3 notes]]
-[[session 4 notes]]
-[[Session 5 Notes]]
-[[session 6 notes]]
-[[session 7 notes]]

@@ -4,7 +4,7 @@ Creation date : <% tp.file.creation_date() %>
 tags : pre-prologue, IC_notes
 ---
 [[||Previous session]]
-# Session 2 IC Notes
+# Prologue Session 2 IC Notes
 
 ### Ready room
 After hearing the plan and the [[Quest nr1]] we discussed how to get more information. After deciding to go to the library, we needed to know how to get access. After calling the clerk asking for more information I once again got confronted with my past. That was not ideal, during this state of shock I spent 2 gold on a drink which then got drunk by [[Lucy]]. Lucy got a bit to drunk and caused a together with [[Enoki]] they burned the roof but I cleaned it a little. It is good to know that [[Squid Ink liquor]] is highly flammable. I need to ask extra clarification on the cups at they seemed invisible.

@@ -4,7 +4,7 @@ Creation date : <% tp.file.creation_date() %>
 tags : pre-prologue, post-prologue
 ---
 
-# session 4 notes
+# prologue  session 4 notes
 as enoki dies a rift opens and a spiderweb of glass cracking erupts from it as the warlord shatters into crystal on the ground.  The entire area looks like a cracked crystal.  The broken glass is a sphere.  
 
 a gain a snippit of me rushing a blue crystaline blade of an old man.  the same type of blade from session one. blade of kill thing. 

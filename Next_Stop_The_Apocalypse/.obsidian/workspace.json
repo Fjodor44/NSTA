@@ -6,31 +6,9 @@
       {
         "id": "638f0ca029596b6b",
         "type": "tabs",
-        "dimension": 47.98927613941019,
         "children": [
           {
-            "id": "7146014b9971fc43",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session 6 notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b0edcf987b7df90",
+            "id": "781722bd349ca780",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -48,93 +26,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "d884054f87a0ee3b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session 7 IC notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f0f92d70e460d1f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session 7 notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e45cd4142ffc4b4d",
-        "type": "tabs",
-        "dimension": 52.01072386058981,
-        "children": [
-          {
-            "id": "fdb25ce621c54c37",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session 6 IC notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92251eea215af5e9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -214,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e3c75992fbae58bf",
@@ -240,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "session 6 notes.md",
+                "file": "IC_Notes/IC_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "session 6 notes.md",
+                "file": "IC_Notes/IC_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,37 +239,37 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "7146014b9971fc43",
+  "active": "781722bd349ca780",
   "lastOpenFiles": [
-    "session 6 IC notes.md",
-    "session 6 notes.md",
-    "session 7 IC notes.md",
-    "session 7 notes.md",
-    "IC_Notes/Unworked session notes/Session 5 Notes.md",
+    "IC_Notes/Session 1 IC notes.md",
+    "session 2 IC notes.md",
+    "session 3 IC notes.md",
+    "IC_Notes/IC_Notes.md",
+    "session 3 notes.md",
+    "session 2 notes.md",
+    "IC_Notes/Unworked session notes/Session 1 Notes.md",
+    "IC_Notes/Unworked session notes/prologue session 4 notes.md",
+    "IC_Notes/Unworked session notes/prologue session 3 notes.md",
+    "ZTemplates/Front Matter Creature.md",
+    "IC_Notes/Unworked session notes/prologue session 2 notes.md",
+    "IC_Notes/Unworked session notes/prologue session 1 notes.md",
+    "IC_Notes/prologue session 1 IC notes.md",
+    "IC_Notes/prologue session 2 IC Notes.md",
+    "IC_Notes/prologue session 3 IC notes (MAJOR SPOILERS).md",
+    "IC_Notes/prologue session 4 IC Notes.md",
     "ToDo List party.md",
     "The Collapse.md",
-    "IC_Notes/Session 5 IC notes.md",
-    "IC_Notes/IC_Notes.md",
-    "IC_Notes/Session 3 IC notes (MAJOR SPOILERS).md",
     "Party Fund.md",
     "ZFiles/zeitgeist_by_willobrien_dept52y-fullview 2.jpg",
     "ZFiles/zeitgeist_by_willobrien_dept52y-fullview 1.jpg",
     "ZFiles/zeitgeist_by_willobrien_dept52y-fullview.jpg",
     "private/Myrthal Iandir.md",
-    "IC_Notes/Unworked session notes/session 3 notes.md",
-    "IC_Notes/Unworked session notes/session 4 notes.md",
-    "IC_Notes/session 4 IC Notes.md",
     "Lore/World/Republic of Ne.md",
     "Queen Aira Solar III, The Radiant Queen.md",
     "Kanban TODO.md",
     "Lisander Galazar.md",
     "Random shit/Readme.md",
     "private/Chronicols of Darkness.md",
-    "Lore/Pantheon/Kelemvor, God of the Dead.md",
-    "Lore/Pantheon/Next stop the apocolypse homepage.md",
-    "House of the dead.md",
-    "ZTemplates/Front Matter Creature.md",
-    "Bone Devil.md",
     "ZTemplates/Untitled",
     "ZFiles/Myrthals_Self_Written_Letter.png"
   ]

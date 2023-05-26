@@ -1,4 +1,11 @@
-# Session 2 Notes
+---
+Last Update : <%+ tp.file.last_modified_date() %>
+Creation date : <% tp.file.creation_date() %>
+tags : pre-prologue, creature
+Enviroment: 
+Home_Plane: 
+---
+# prologue session 2 notes
 
 ~~heartsavers 1 point healing potions sold in novilty shops.~~
 
