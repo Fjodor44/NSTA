@@ -14,6 +14,7 @@ kanban-plugin: basic
 - [ ] Not broke
 - [ ] 3d print cart
 - [ ] Investigate the Burn
+- [ ] investigate the ash from the Potentiality Obolisk
 
 
 ## In Progress
