@@ -5,7 +5,7 @@ tags : Bestiary
 ---
 
 # Bestiary
-Iddex of all Beast in [[Speelbook of Knowledge]]
+Iddex of all Beast in [[Spellbook of Knowledge]]
 [[Bone Devil]]
 
 ```dataview

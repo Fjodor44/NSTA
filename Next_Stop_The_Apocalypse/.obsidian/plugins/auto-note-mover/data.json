@@ -2,11 +2,50 @@
   "trigger_auto_manual": "Automatic",
   "use_regex_to_check_for_tags": false,
   "statusBar_trigger_indicator": true,
-  "folder_tag_pattern": [],
+  "folder_tag_pattern": [
+    {
+      "folder": "NPC's",
+      "tag": "#NPC",
+      "pattern": ""
+    },
+    {
+      "folder": "IC_Notes",
+      "tag": "#IC_notes",
+      "pattern": ""
+    },
+    {
+      "folder": "IC_Notes/Unworked session notes",
+      "tag": "#OC_Notes",
+      "pattern": ""
+    },
+    {
+      "folder": "IC_Notes/Unworked session notes",
+      "tag": "#OC_notes",
+      "pattern": ""
+    },
+    {
+      "folder": "IC_Notes",
+      "tag": "#IC_Notes",
+      "pattern": ""
+    },
+    {
+      "folder": "Lore/Spells&Items",
+      "tag": "#item",
+      "pattern": ""
+    },
+    {
+      "folder": "Lore/Spells&Items",
+      "tag": "#spells",
+      "pattern": ""
+    }
+  ],
   "use_regex_to_check_for_excluded_folder": false,
   "excluded_folder": [
     {
       "folder": "ZTemplates"
+    },
+    {
+      "folder": "Random shit"
     }
   ]
 }

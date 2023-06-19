@@ -13,7 +13,7 @@ main room is a octagonal raised platform with a large altar behind it with a mas
 myrthal how do you pray.
 there is a mental pressure when praying. this is  the connection to the plane of the dead.
 [[Lucy]] gets plucked into the realm of the dead. she is in the boneyard. when the souls die and are not claimed by a god they fade with the restanten being left in the boneyard.
-black elven figure dressen in blue robes that is looking over the boneyard that is carrying a greatsword with two large hooks on the tips. this figure is gaust the spineseverer on of the archangels of Kelemvor. NOPE NOPE NOPE. millions of imps get released on the boneyard.
+black elven figure dressen in blue robes that is looking over the boneyard that is carrying a greatsword with two large hooks on the tips. this figure is Gaust the spine severer on of the archangels of Kelemvor. NOPE NOPE NOPE. millions of imps get released on the boneyard.
 floating in an infinite startscape connected with silver wisps around everything.
 
 Lucy is being illuminated by a beam of light its power seems to be devine. 

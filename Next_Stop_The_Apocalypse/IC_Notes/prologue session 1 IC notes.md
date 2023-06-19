@@ -18,7 +18,7 @@ there was a human named [[Enoki]] who has a weird mushroom in their hair and is 
 
 Finally there is [[Hayden]] who seemed to be able to manifest a an echo of himself this echo was not effected by a psychic mug and seemed to pass straight through. I have never seen or heard anything about this and need to do some more investigation on this echo.
 
-our introductions got interuped when I got stabbed by an assasin who used a blade made out of arcane quartz. a wizardsslayer attack was used killing me instantly but I was brought back due to my ring. Which broke one of the crystals. This seems to bring me back from the dead but at the cost of one of the crystals. It might have some more unforeseen consequences. The ring felt warm when I was dead.
+our introductions got interuped when I got stabbed by an assasin who used a blade made out of arcane quartz a [[Galazar Blade]]. a wizardsslayer attack was used killing me instantly but I was brought back due to my ring. Which broke one of the crystals. This seems to bring me back from the dead but at the cost of one of the crystals. It might have some more unforeseen consequences. The ring felt warm when I was dead.
 
 The assasin was also quite interesting. It seemed to have non-corporeal movement. It also had acces to a really powerful spell named [[Detonation Surge]] A high level spell like 5+ that kills the user. The spell should be highly regulated by [[UMDA]] with limited access. Could this be a group who has broken in to UMDA or is it UMDA itself? More information is needed before I can draw a conclusion. But UMDA might be up to some shady stuff.
 

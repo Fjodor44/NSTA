@@ -8,40 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "781722bd349ca780",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "IC_Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"IC_Notes/IC_Notes.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":16},\"to\":{\"line\":21,\"ch\":16}},\"scroll\":5.577830167884461}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session 3 IC notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "638f0ca029596b6b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c8c54a81ebd2c416",
+            "id": "54238128a7270283",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,14 +22,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session 3 notes.md",
+                "file": "IC_Notes/Session 1 IC notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "95fc07a9b43f8d21",
+            "id": "4cde1e0603e99fec",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -74,13 +41,100 @@
               ]
             },
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ToDo List party.md"
+                "file": "Moongrove.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a67a2862f38ac68",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party Fund.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bea39a7a757e7e98",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ponder List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b951b1a5e0ee21e9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IC_Notes/Unworked session notes/session 5 notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02078d2a689c983c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IC_Notes/Unworked session notes/Session 4 notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -127,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pre-prologue",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,13 +206,40 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "2ea02df39ffa679c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "prologue session 1 IC notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"IC_Notes/prologue session 1 IC notes.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":16.905000305175783}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random shit/Automagic tags.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e3c75992fbae58bf",
@@ -183,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "session 3 IC notes.md",
+                "file": "IC_Notes/Unworked session notes/Session 4 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "session 3 IC notes.md",
+                "file": "IC_Notes/Unworked session notes/Session 4 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,37 +373,38 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "781722bd349ca780",
+  "active": "02078d2a689c983c",
   "lastOpenFiles": [
-    "Myrthal's Memory.md",
-    "session 3 IC notes.md",
-    "session 3 notes.md",
-    "ToDo List party.md",
-    "IC_Notes/IC_Notes.md",
-    "IC_Notes/Session 1 IC notes.md",
-    "session 2 IC notes.md",
-    "session 2 notes.md",
-    "IC_Notes/Unworked session notes/Session 1 Notes.md",
-    "IC_Notes/Unworked session notes/prologue session 4 notes.md",
-    "IC_Notes/Unworked session notes/prologue session 3 notes.md",
-    "ZTemplates/Front Matter Creature.md",
-    "IC_Notes/Unworked session notes/prologue session 2 notes.md",
-    "IC_Notes/Unworked session notes/prologue session 1 notes.md",
-    "IC_Notes/prologue session 1 IC notes.md",
-    "IC_Notes/prologue session 2 IC Notes.md",
-    "IC_Notes/prologue session 3 IC notes (MAJOR SPOILERS).md",
-    "IC_Notes/prologue session 4 IC Notes.md",
-    "The Collapse.md",
+    "IC_Notes/Unworked session notes/session 5 notes.md",
+    "IC_Notes/Unworked session notes/Session 4 notes.md",
     "Party Fund.md",
+    "Ponder List.md",
+    "IC_Notes/Session 1 IC notes.md",
+    "Random shit/Automagic tags.md",
+    "Moongrove.md",
+    "Listaar.md",
+    "IC_Notes/Unworked session notes/session 2 notes.md",
+    "IC_Notes/Prologue/prologue session 3 IC notes (MAJOR SPOILERS).md",
+    "Quest to Kashmir.md",
+    "IC_Notes/Unworked session notes/prologue session 3 notes.md",
+    "IC_Notes/session 3 IC notes.md",
+    "Fate Realm.md",
+    "Fate of Foresight, Ryleita.md",
+    "The Dying timeline (party).md",
+    "IC_Notes/session 2 IC notes.md",
+    "IC_Notes/Unworked session notes/prologue session 4 notes.md",
+    "NPC's/Darios Tyfon.md",
+    "Kashmir.md",
+    "IC_Notes/prologue session 4 IC Notes.md",
+    "Crystal Blade.md",
+    "Lore/Spells&Items/Threads of fate.md",
+    "The Collapse.md",
+    "ToDo List party.md",
+    "Characters/Enoki.md",
+    "IC_Notes/Prologue",
     "ZFiles/zeitgeist_by_willobrien_dept52y-fullview 2.jpg",
     "ZFiles/zeitgeist_by_willobrien_dept52y-fullview 1.jpg",
     "ZFiles/zeitgeist_by_willobrien_dept52y-fullview.jpg",
-    "private/Myrthal Iandir.md",
-    "Lore/World/Republic of Ne.md",
-    "Queen Aira Solar III, The Radiant Queen.md",
-    "Kanban TODO.md",
-    "Lisander Galazar.md",
-    "Random shit/Readme.md",
     "ZTemplates/Untitled",
     "ZFiles/Myrthals_Self_Written_Letter.png"
   ]

@@ -14,5 +14,5 @@ tags : post-prologue
 | Myrthal | -20    | 230   | repayment of the antidote      |
 | Party   | -6 gp  | 224   | Rations                        |
 | party   | - 45gp | 178   | wagon                          |
-| party   | -45gp  | 133   | diamond of 310                 | 
-|         |        |       |                                |
+| party   | -45gp  | 133   | diamond of 310                 |
+| Party   | -1.5gp | 131.5 | storage of wagon               | 

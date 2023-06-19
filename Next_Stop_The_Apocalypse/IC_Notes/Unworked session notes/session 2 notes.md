@@ -1,7 +1,7 @@
 ---
 Last Update : <%+ tp.file.last_modified_date() %>
 Creation date : <% tp.file.creation_date() %>
-tags : post-prologue, Notes
+tags : post-prologue, OC_Notes
 ---
 
 # session 2 notes
@@ -10,7 +10,7 @@ the party is called the dying timeline.
 myrthal is the party leader again.
 moongrove has an infested mine (OCK) between aquaduct and large city
 undead problem in Listaar and it has an undead problem
-this is between the aquaducts and obolisk.
+this is between the aquaducts and obelisk.
 myrthal hypnotic pattern on salmon and then collected the salmon we have 8 salmon.
 wagon has a cutting board.
 57 research points on potentiality shard.

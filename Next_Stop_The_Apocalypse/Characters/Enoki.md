@@ -6,4 +6,4 @@ tags : pre-prologue
 
 # Enoki
 
-there was a human named [[Enoki]] who has a weird mushroom in her hair and is carrying a bluish staff. 
+there was a human named [[Enoki]] who has a weird mushroom in their hair and is carrying a bluish staff. 

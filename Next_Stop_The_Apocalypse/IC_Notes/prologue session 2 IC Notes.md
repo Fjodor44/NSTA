@@ -3,7 +3,6 @@ Last Update : <%+ tp.file.last_modified_date() %>
 Creation date : <% tp.file.creation_date() %>
 tags : pre-prologue, IC_notes
 ---
-[[||Previous session]]
 # Prologue Session 2 IC Notes
 
 ### Ready room
@@ -21,5 +20,5 @@ This floor did not contain anything interesting except feyology and demonology.
 when going back, I noticed a small button at the back where we got the book on Lesser demons from. This opened a small hidden compartment containing a spell scroll of [[Summon Lesser Demon]]. which was tagged using an abjuration sigil which I promptly disposed of in the toilet. After which I continued with the research on the [[Bone Devil]]. My antics seemed to have drawn the attention of [[Enoki]] who later asked me what I was doing. 
 
 # Road to House of the Dead
-Nothing Interesting happened totally. I nearly fell when I was discussing the scroll with [[Enoki]] and [[Hayden]] seemed a bit wierd for a second but that must have been just my brain playing tricks.
+Nothing Interesting happened totally. I nearly fell when I was discussing the scroll with [[Enoki]] and [[Hayden]] seemed a bit weird for a second but that must have been just my brain playing tricks.
 

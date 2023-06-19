@@ -9,3 +9,4 @@
 ## Spells
 
 [[Detonation Surge]]
+[[]]

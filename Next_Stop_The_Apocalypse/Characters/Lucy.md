@@ -8,3 +8,4 @@ tags : pre-prologue
 
 There is a Tiefling called [[Lucy]] who has a weird magical bracer that seems to give her power. She seems to have powers similar to clerics but her bracer does some weird things.
 
+sidenote cant handle [[Squid Ink liquor]]
