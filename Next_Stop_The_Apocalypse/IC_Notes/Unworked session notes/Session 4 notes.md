@@ -42,7 +42,7 @@ there are many different races woodelfs eledrin an acational fairy and some huma
 we spot 1 goliath
 1 bridge leaves to a tavern in the middle there is one central platform with a couple of stores 
 the tavern is mostly filled with alcoholics behind the bars is a human man in his 50ths with a buttun up shirt.
-the sandwich of the day is a venicen carpaccio. 
+the sandwich of the day is a venison carpaccio. 
 a couple of boutnies on the bounty board there are wolves in the area.
 do not go to the floor at night due to undead activity.
 there is an obituary which says rested be with nature
@@ -72,4 +72,4 @@ _This blue-ish metal ore is cold to the touch and causes frostbite if handled to
 
 - a forge lies dormant deep within the hidden halls of a waterways long forgotten and taken by nature
 - a forge lies dormant deep within the halls of an ancient fortress in a ravine where magic and crystal meet
-	- a forge lies dormant in the sands of a vast desert hidden deep within the temple of an ancient hydra
+- a forge lies dormant in the sands of a vast desert hidden deep within the temple of an ancient hydra

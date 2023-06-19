@@ -6,7 +6,7 @@ tags : post-prologue
 ---
 
 # Party Fund
-| Person  | Cost   | Total | Reason                         |
+| Person  | Cost   | Total | Reason                         | 
 | ------- | ------ | ----- | ------------------------------ |
 | Myrthal | +20gp  | 20    | for antidotes                  |
 | Party   | -20gp  | 0     | Antidote                       |
@@ -15,4 +15,4 @@ tags : post-prologue
 | Party   | -6 gp  | 224   | Rations                        |
 | party   | - 45gp | 178   | wagon                          |
 | party   | -45gp  | 133   | diamond of 310                 |
-| Party   | -1.5gp | 131.5 | storage of wagon               | 
+| Party   | -1.5gp | 131.5 | storage of wagon               |

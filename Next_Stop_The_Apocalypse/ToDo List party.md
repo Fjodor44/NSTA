@@ -15,6 +15,9 @@ kanban-plugin: basic
 - [ ] 3d print cart
 - [ ] Investigate the Burn
 - [ ] investigate the ash from the Potentiality Obolisk
+- [ ] Visit the effergy
+- [ ] Quest for Kitsa
+- [ ] Quest for Talia
 
 
 ## In Progress
