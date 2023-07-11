@@ -13,6 +13,7 @@ DO NOT READ THIS UNLESS YOU WANT POSSIBLE SPOILERS TO MIRTHAL's Backstory
 [[Session 1 IC notes]]
 [[session 2 IC notes]]
 [[session 3 IC notes]]
+
 # OC Notes
 
 [[prologue session 1 notes]]
@@ -23,3 +24,5 @@ DO NOT READ THIS UNLESS YOU WANT POSSIBLE SPOILERS TO MIRTHAL's Backstory
 [[Session 1 Notes]]
 [[session 2 notes]]
 [[session 3 notes]]
+[[Session 4 notes]]
+[[session 5 notes]]

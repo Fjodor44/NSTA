@@ -119,7 +119,7 @@
             }
           },
           {
-            "id": "02078d2a689c983c",
+            "id": "a31021bd8216944e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -133,132 +133,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC_Notes/Unworked session notes/Session 4 notes.md",
+                "file": "IC_Notes/IC_Notes.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "267c5fff4ab41a61",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Pantheon/Pantheon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f17197466db3b081",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "ToDo List party.md"
-              }
-            }
-          },
-          {
-            "id": "8312321b47326e2d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Pantheon/Pan, God of Nature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce978e0f6cc10963",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Pantheon/Mishakal, Goddes of Healing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87147b5252d61cb4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "ZFiles/Myrthals_Self_Written_Letter.png"
-              }
-            }
-          },
-          {
-            "id": "6155472c66b5131d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -387,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC_Notes/Unworked session notes/session 5 notes.md",
+                "file": "IC_Notes/IC_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC_Notes/Unworked session notes/session 5 notes.md",
+                "file": "IC_Notes/IC_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -496,10 +378,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b951b1a5e0ee21e9",
+  "active": "a31021bd8216944e",
   "lastOpenFiles": [
-    "IC_Notes/Unworked session notes/Session 4 notes.md",
     "IC_Notes/Unworked session notes/session 5 notes.md",
+    "IC_Notes/Unworked session notes/Session 4 notes.md",
     "IC_Notes/Unworked session notes/prologue session 3 notes.md",
     "Lore/Pantheon/Pantheon.md",
     "ToDo List party.md",
