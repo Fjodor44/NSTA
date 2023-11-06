@@ -3,7 +3,7 @@ Last Update : <%+ tp.file.last_modified_date() %>
 Creation date : <% tp.file.creation_date() %>
 tags : post-prologue, OC_notes
 ---
-
+ 
 # Session 4 notes
 
 the rangers where headed by a large angry woodelf that has a gash of 3 after a quick conversation and showing our qpd credentials they fucked right off

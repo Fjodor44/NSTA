@@ -4,9 +4,7 @@
   "attachmentFolderPath": "ZFiles",
   "showFrontmatter": true,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "readableLineLength": false,
   "defaultViewMode": "source",
   "alwaysUpdateLinks": true,

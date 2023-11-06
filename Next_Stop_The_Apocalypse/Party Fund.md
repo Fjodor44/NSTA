@@ -6,13 +6,17 @@ tags : post-prologue
 ---
 
 # Party Fund
-| Person  | Cost   | Total | Reason                         | 
-| ------- | ------ | ----- | ------------------------------ |
-| Myrthal | +20gp  | 20    | for antidotes                  |
-| Party   | -20gp  | 0     | Antidote                       |
-| Bounty  | +250   | 250   | Payment from the spirit weaver |
-| Myrthal | -20    | 230   | repayment of the antidote      |
-| Party   | -6 gp  | 224   | Rations                        |
-| party   | - 45gp | 178   | wagon                          |
-| party   | -45gp  | 133   | diamond of 310                 |
-| Party   | -1.5gp | 131.5 | storage of wagon               |
+| Person  | Cost     | Total | Reason                         |
+| ------- | -------- | ----- | ------------------------------ |
+| Myrthal | +20gp    | 20    | for antidotes                  |
+| Party   | -20gp    | 0     | Antidote                       |
+| Bounty  | +250     | 250   | Payment from the spirit weaver |
+| Myrthal | -20      | 230   | repayment of the antidote      |
+| Party   | -6 gp    | 224   | Rations                        |
+| party   | - 45gp   | 178   | wagon                          |
+| party   | -45gp    | 133   | diamond of 310                 |
+| Party   | -1.5gp   | 131.5 | storage of wagon               |
+| Party   | + 51.8gp | 183   | Found cash                     |
+| party   | +240gp   | 423.3 | Payment wierd ass antlers      |
+| party   | +25      | 448.3 | reward information             |
+| party   | +135     | 583.3 | Owlbearmeat                    | 

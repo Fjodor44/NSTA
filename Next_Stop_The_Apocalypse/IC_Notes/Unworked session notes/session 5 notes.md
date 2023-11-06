@@ -29,7 +29,7 @@ its in the tree and on the upper level.
 talia bounty probbably a day or two.
 
 on the side of one of the trees is a staircase that leads around and up to a door and the the staircase railing has a perpetual flame every 10 foot and above the door is an awning in the shape of a witch hat. 
-of tree trees there is a tree to the left wich contains the witch hot
+of tree trees there is a tree to the left wich contains the witch hat
 the back tree and right three between them is a store and all trees contain sotres
 in the middle is an arch and there is a large market setup in the middle.
 one of the stalls is a small beachhut and it has an awning with bottles filled with coloured liquids
